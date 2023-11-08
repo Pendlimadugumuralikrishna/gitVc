@@ -1,9 +1,8 @@
-1.Hyderabd
-2.Mumbai
-3.goa
+1.Hyderabd - 5
+2.Mumbai -6 
+3.goa -6 
 4.karnataka
 5.talangana
-6.bangalore
-7.moosapet
-8.kukatpally
+6.bangalore- 3
+8.kukatpally - 5
 9.shamirpet

@@ -1,8 +1,8 @@
-1.Hyderabd - 5
+1.Hyderabd - 8900
 2.Mumbai -6 
-3.goa -6 
+3.goa - 90
 4.karnataka
 5.talangana
-6.bangalore- 3
-8.kukatpally - 5
+6.bangalore- 3000
+8.kukatpally - 500
 9.shamirpet
